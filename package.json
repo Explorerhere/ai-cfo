@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/express-rate-limit": "^6.0.2",
+    "express-rate-limit": "^7.5.0"
+  }
+}
